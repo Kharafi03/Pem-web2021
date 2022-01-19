@@ -1,0 +1,13 @@
+body {
+    background-color: #353535;
+    font-family: verdana;
+}
+.login {
+    border: solid;
+    border-color: white;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+}
+
+

@@ -1,0 +1,37 @@
+body{
+    background-color: whitesmoke;
+    font-family: verdana;
+    
+}
+.login {
+    border: solid;
+    border-color: white;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+}
+.card {  
+    width: 300px;
+    box-shadow: 1px 1px 1px 1px grey;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: auto;
+    margin-left: auto;
+}
+.card:hover {
+    box-shadow: 1px 1px 20px grey;
+    transition: 0.3s;
+}
+.btn {
+    width: auto;
+}
+.btn:hover {
+    box-shadow: 1px 1px 30px gray;
+    transition: 0.4s;
+}
+.footer {
+    width: auto;
+    height: 120px;
+    background-color: #212529;
+    color: white;
+}

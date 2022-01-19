@@ -1,0 +1,19 @@
+body{
+    background-color: whitesmoke;
+    font-family: verdana;
+    
+}
+.login {
+    border: solid;
+    border-color: white;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+}
+.btn {
+    width: auto;
+}
+.btn:hover {
+    box-shadow: 1px 1px 30px gray;
+    transition: 0.4s;
+}
